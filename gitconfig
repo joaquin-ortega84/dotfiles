@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joaquinandresortega84@gmail.com
+	name = Joaquin Ortega
